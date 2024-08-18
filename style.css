@@ -1,0 +1,89 @@
+body {
+  background-color: #f7f7f7;
+}
+
+.display-4 {
+  font-family: "Stylish", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.image {
+  width: 700px;
+  height: 700px;
+  border-radius: 50%;
+}
+
+.lead {
+  font-size: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.feature-icon {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 0.75rem;
+}
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.text-shadow-1 {
+  text-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.25);
+}
+.text-shadow-2 {
+  text-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.25);
+}
+.text-shadow-3 {
+  text-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.25);
+}
+
+.card-cover {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.feature-icon-small {
+  width: 3rem;
+  height: 3rem;
+}
+
+h3 {
+  font-family: "Stylish", serif;
+  font-weight: 400;
+  font-size: 30px;
+  font-style: normal;
+}
+
+h2 {
+  font-family: "Stylish", serif;
+  font-weight: 400;
+  font-size: 55px;
+  font-style: normal;
+}
+
+li {
+  font-size: 25px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: 100;
+}
+
+.about {
+  background-color: #ffffff;
+  border-radius: 5%;
+}
+
+.contact {
+  background-color: #f5f4f4;
+  border-radius: 20%;
+}
+
+.footer {
+  background-color: #f7f7f7;
+}
